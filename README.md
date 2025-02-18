@@ -94,7 +94,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maiz-an/maiz-an/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maiz-an/maiz-an/main/snake.svg" alt="Snake animation" />
+
 
 ###
 
