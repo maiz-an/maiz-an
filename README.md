@@ -109,7 +109,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maiz-an/maiz-an/main/assets/snake.svg" alt="Snake animation" />
 
 ###
 
