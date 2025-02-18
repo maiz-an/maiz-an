@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Maizan and I'm a Full-Stack Dev, from Sri Lanka</h2>
+<h3 align="left">Hi 👋! My name is Maizan and I'm a Full-Stack Dev, from Sri Lanka</h3>
 
 ###
 
@@ -39,7 +39,8 @@
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
 </div>
 
 ###
@@ -70,7 +71,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
 ###
@@ -85,10 +87,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
 ###
@@ -109,13 +107,11 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/maiz-an/maiz-an/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/maiz-an/maiz-an/output/snake2.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31dw7qdgcprffbkevsvfzxlclwte">
