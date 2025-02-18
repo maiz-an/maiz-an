@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Maizan and I'm a Full-Stack Dev, from Sri Lanka</h3>
+<h2 align="center">Hi 👋! My name is Maizan and I'm a Full-Stack Dev, from Sri Lanka</h2>
 
 ###
 
@@ -109,7 +109,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maiz-an/maiz-an/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maiz-an/maiz-an/main/assets/snake.svg" alt="Snake animation" />
 
 ###
 
