@@ -113,6 +113,9 @@
 ###
 
 <br clear="both">
+<img src="https://raw.githubusercontent.com/maiz-an/maiz-an/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31dw7qdgcprffbkevsvfzxlclwte">
