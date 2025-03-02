@@ -113,14 +113,14 @@
 <img src="https://raw.githubusercontent.com/maiz-an/maiz-an/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!--
 <br clear="both">
 <div align="center">
   <a href="https://open.spotify.com/user/31dw7qdgcprffbkevsvfzxlclwte">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dw7qdgcprffbkevsvfzxlclwte&count=7&unique=true" alt="Spotify recently played" />
   </a>
 </div>
-
+-->
 ###
 
 
