@@ -9,12 +9,12 @@
 
 ##
 
-<div style="display: flex; align-items: center; align="center"">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
   <!-- GIF on the right -->
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-  <!-- Icons div to the right of the GIF -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 12px; max-width: 100%; flex: 1; padding-left: 20px; padding-right: 20px;">
+  <!-- Icons div to the left of the GIF -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; max-width: 100%; flex: 1; padding-left: 10px; padding-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
@@ -28,10 +28,14 @@
     <img src="https://cdn.simpleicons.org/wordpress/21759B" height="35" alt="wordpress logo" />
     <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo" />
     <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
+    <img src="https://skillicons.dev/icons?i=netlify" height="35" alt="netlify logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo" />
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 12px; padding-left: 20px; padding-right: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; padding-left: 10px; padding-right: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
@@ -45,17 +49,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="r logo" />
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 12px; padding-left: 20px; padding-right: 20px;">
-  <img src="https://skillicons.dev/icons?i=netlify" height="35" alt="netlify logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="visualstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="aftereffects logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo" />
 </div>
+
+
 
 
 <div style="text-align: right; padding-top: 70px;">
