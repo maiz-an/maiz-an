@@ -71,6 +71,10 @@
 
 <div style="display: inline-flex; gap: 20px;">
 
+ <a href="https://maizan.infinityfreeapp.com/" target="_blank" style="display: inline-block;">
+     <img src="https://i.postimg.cc/XNszWDtJ/favmin.png" height="51" alt="portfolio logo" />
+  </a>
+
 <!-- Instagram button with the Instagram logo from the provided URL -->
 <a href="https://discordapp.com/users/963477933849215046" target="_blank" style="display: inline-block;">
 <img src="https://img.icons8.com/?size=100&id=LIGCjf5dKGrN&format=png&color=000000" height="55" alt="instagram logo" />
@@ -89,7 +93,8 @@
  <a href="https://www.instagram.com/mr.de11_" target="_blank" style="display: inline-block;">
   <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="55" alt="instagram logo" />
   </a>
-  </div>
+
+
 </div>
 
 <!-- Include Ubuntu font -->
@@ -97,7 +102,7 @@
 
 
 
-
+######
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maiz-an.maiz-an&left_color=yellowgreen" />
 
