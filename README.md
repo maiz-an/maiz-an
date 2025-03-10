@@ -106,5 +106,6 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maiz-an.maiz-an&left_color=yellowgreen" />
 
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/maiz-an/maiz-an/output/snake.svg" alt="Snake animation" />
