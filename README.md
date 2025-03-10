@@ -72,7 +72,7 @@
 <div style="display: inline-flex; gap: 20px;">
 
 <!-- Instagram button with the Instagram logo from the provided URL -->
-<a href="https://www.instagram.com/mr.de11_" target="_blank" style="display: inline-block;">
+<a href="https://discordapp.com/users/963477933849215046" target="_blank" style="display: inline-block;">
 <img src="https://img.icons8.com/?size=100&id=LIGCjf5dKGrN&format=png&color=000000" height="55" alt="instagram logo" />
 </a>
 
