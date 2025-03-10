@@ -3,9 +3,13 @@
 </h1>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=maiz-an&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maiz-an&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <!-- Stats graph with timestamp query string to force refresh -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maiz-an&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&timestamp=2025" height="150" alt="stats graph" />
+
+  <!-- Languages graph with timestamp query string to force refresh -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maiz-an&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&timestamp=2025" height="150" alt="languages graph" />
 </div>
+
 
 ##
 
