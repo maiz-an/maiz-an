@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Maizan and I'm a Full-Stack Dev, from Sri Lanka</h2>
+<h2 align="center">Hi 👋! I'm Maizan and I'm a Full-Stack Dev, from Sri Lanka</h2>
 
 ###
 
