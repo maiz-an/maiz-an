@@ -60,19 +60,28 @@
 </div>
 
 
-
+######
 
 <div style="text-align: right; padding-top: 70px;">
-  <a href="mailto:mohamedmaizanunas@gmail.com?subject=hey!&body=I came from your GitHub." target="_blank">
+  <!-- Gmail button with Gmail logo -->
+  <a href="mailto:mohamedmaizanunas@gmail.com?subject=hey!&body=I came from your GitHub." target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-maizan-1b29a1307/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+
+  <!-- LinkedIn button with colorful LinkedIn logo -->
+  <a href="https://www.linkedin.com/in/mohamed-maizan-1b29a1307/" target="_blank" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/mr.de11_" target="_blank">
+
+  <!-- Instagram button with Instagram logo -->
+  <a href="https://www.instagram.com/mr.de11_" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
+
+
+
+
 
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maiz-an.maiz-an&left_color=yellowgreen" />
