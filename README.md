@@ -62,23 +62,38 @@
 
 ######
 
-<div style="text-align: right; padding-top: 70px;">
+
+<div style="text-align: right; padding-top: 70px; font-family: 'Ubuntu', sans-serif; font-size: 20px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+
+<h5 style="color: #00BFFF;">
+    Ping me on these!
+</h5>
+
+<div style="display: inline-flex; gap: 20px;">
+
+<!-- Instagram button with the Instagram logo from the provided URL -->
+<a href="https://www.instagram.com/mr.de11_" target="_blank" style="display: inline-block;">
+<img src="https://img.icons8.com/?size=100&id=LIGCjf5dKGrN&format=png&color=000000" height="55" alt="instagram logo" />
+</a>
+
+<!-- LinkedIn button with the LinkedIn logo from the provided URL -->
+<a href="https://www.linkedin.com/in/mohamed-maizan-1b29a1307/" target="_blank" style="display: inline-block;">
+<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="55" alt="linkedin logo" />
+</a>
+
   <!-- Gmail button with Gmail logo -->
-  <a href="mailto:mohamedmaizanunas@gmail.com?subject=hey!&body=I came from your GitHub." target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+<a href="mailto:mohamedmaizanunas@gmail.com?subject=hey!&body=I came from your GitHub." target="_blank" style="display: inline-block;">
+<img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" height="55" alt="gmail logo" />
+</a>
+  <!-- Instagram button with Instagram logo (second instance) -->
+ <a href="https://www.instagram.com/mr.de11_" target="_blank" style="display: inline-block;">
+  <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="55" alt="instagram logo" />
   </a>
-
-  <!-- LinkedIn button with colorful LinkedIn logo -->
-  <a href="https://www.linkedin.com/in/mohamed-maizan-1b29a1307/" target="_blank" style="display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" height="35" alt="linkedin logo" />
-  </a>
-
-  <!-- Instagram button with Instagram logo -->
-  <a href="https://www.instagram.com/mr.de11_" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
+  </div>
 </div>
 
+<!-- Include Ubuntu font -->
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap" rel="stylesheet">
 
 
 
