@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hey+it's+Maizan!;+I'm+a+Developer+and+Designer.;" />
 </h1>
 
+<h6 align="center">GitHub Analytics</h6>
+
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maiz-an&theme=city_lights" />
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=city_lights" />
