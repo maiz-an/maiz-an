@@ -21,7 +21,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
   <!-- GIF on the right -->
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+  <img align="right" height="190" src="https://media1.tenor.com/m/Yqerh1vWOvIAAAAd/miles-morales-mask-spider-man-across-the-spider-verse.gif" />
 
   <!-- Icons div to the left of the GIF -->
   <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; max-width: 100%; flex: 1; padding-left: 10px; padding-right: 10px;">
