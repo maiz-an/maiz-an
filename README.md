@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hey+it's+Maizan!;+I'm+a+Developer+and+Designer.;" />
+    <a href="https://https://maizan.infinityfreeapp.com" target="_blank">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hey+it's+Maizan!;+I'm+a+Developer+and+Designer.;" />
+    </a>
 </h1>
 
 <br>
