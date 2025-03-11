@@ -35,12 +35,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" alt="gitlab logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="35" alt="wordpress logo" />
     <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
-    <img src="https://skillicons.dev/icons?i=netlify" height="35" alt="netlify logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo" />
 </div>
 
@@ -56,7 +54,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" alt="r logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo" />
-    <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="35" alt="gimp logo" />
     <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="aftereffects logo" />
