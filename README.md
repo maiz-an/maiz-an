@@ -2,26 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hey+it's+Maizan!;+I'm+a+Developer+and+Designer.;" />
 </h1>
 
-<h4 align="center" style="color: gray;">GitHub Analytics ⚙️</h4>
+<br>
+<br>
 
-##
+
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiz-an&theme=city_lights" />
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiz-an&theme=github_dark" alt="Your GitHub stats" />
+   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=github_dark" />
+    
 </p>
 
-
-<p align="center">    
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maiz-an&theme=city_lights" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=city_lights" />
-</p>
+<br>
+<br>
 
 
 
-##
-<h4 align="center" style="color: gray;">Experienced 🚀<h4>
-
-##
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
   <!-- GIF on the right -->
