@@ -10,8 +10,8 @@
 
 
 <p align="center">
-    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maizan&theme=github_dark" alt="Your GitHub stats" />
-   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maizan&theme=github_dark" />
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiz-an&theme=github_dark" alt="Your GitHub stats" />
+   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=github_dark" />
     
 </p>
 
