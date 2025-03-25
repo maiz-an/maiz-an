@@ -94,7 +94,7 @@
 <img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" height="50" alt="gmail logo" />
 </a>
   <!-- Instagram button with Instagram logo (second instance) -->
- <a href="https://www.instagram.com/mr.de11_" target="_blank" style="display: inline-block;">
+ <a href="https://www.instagram.com/ziezanq" target="_blank" style="display: inline-block;">
   <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="50" alt="instagram logo" />
   </a>
 
