@@ -108,7 +108,7 @@
 
 ######
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maiz-an.maiz-an&left_color=gray" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maiz-an.maiz-an&left_color=red" />
 
 
 
