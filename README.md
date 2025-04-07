@@ -83,26 +83,26 @@
 <div style="display: inline-flex; gap: 20px;">
 
  <a href="https://maizan.infinityfreeapp.com/" target="_blank" style="display: inline-block;">
-     <img src="https://i.postimg.cc/XNszWDtJ/favmin.png" height="46" alt="portfolio logo" />
+     <img src="https://i.postimg.cc/XNszWDtJ/favmin.png" height="42" alt="portfolio logo" />
   </a>
 
 <!-- Instagram button with the Instagram logo from the provided URL -->
 <a href="https://discordapp.com/users/963477933849215046" target="_blank" style="display: inline-block;">
-<img src="https://img.icons8.com/?size=100&id=LIGCjf5dKGrN&format=png&color=000000" height="50" alt="instagram logo" />
+<img src="https://img.icons8.com/?size=100&id=LIGCjf5dKGrN&format=png&color=000000" height="45" alt="instagram logo" />
 </a>
 
 <!-- LinkedIn button with the LinkedIn logo from the provided URL -->
 <a href="https://www.linkedin.com/in/mohamed-maizan-1b29a1307/" target="_blank" style="display: inline-block;">
-<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="50" alt="linkedin logo" />
+<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="45" alt="linkedin logo" />
 </a>
 
   <!-- Gmail button with Gmail logo -->
 <a href="mailto:mohamedmaizanunas@gmail.com?subject=hey!&body=I came from your GitHub." target="_blank" style="display: inline-block;">
-<img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" height="50" alt="gmail logo" />
+<img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" height="45" alt="gmail logo" />
 </a>
   <!-- Instagram button with Instagram logo (second instance) -->
  <a href="https://www.instagram.com/ziezanq" target="_blank" style="display: inline-block;">
-  <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="50" alt="instagram logo" />
+  <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="45" alt="instagram logo" />
   </a>
 
 
