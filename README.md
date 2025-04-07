@@ -120,7 +120,10 @@
 <br/><br/>
 
 <p align="left" style="display: inline-block;" >
-    <img height="115em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiz-an&theme=github_dark&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
+
+<br/>
+    
+<img height="115em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiz-an&theme=github_dark&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
 <!--     <img height="110em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=github_dark&timestamp=12345" style="display: inline-block;"/> -->
 </p>
 
