@@ -61,6 +61,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo" />
 </div>
 
+<br/>
+
 <!-- GIF and Social Links Div -->
 <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
   <div style="display: flex; justify-content: flex-end; gap: 12px;">
