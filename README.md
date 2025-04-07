@@ -5,26 +5,25 @@
 </h1>
 
 <br>
+
+
+
 <br>
-
-
-
-<p align="center">
-    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiz-an&theme=github_dark&timestamp=12345" alt="Your GitHub stats" />
-   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=github_dark&timestamp=12345" />
-    
+<p align="left">
+  <img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/maiz-an/1af49adc577ff00e0b5bef9044965acf/raw/general.svg" />
 </p>
 
-<br>
-<br>
 
-
-
+ <!--
+<p align="center">
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiz-an&theme=github_dark&timestamp=12345" alt="Your GitHub stats" />
+    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=github_dark&timestamp=12345" />
+</p>
+--->
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;">
-  <!-- GIF on the right -->
-  <img align="right" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNtZzR4MjhvYW9raG55NGd4cGx3dTl0cDF4bzcwZmp5OXBvazZpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" />
-
+    <br/>
+  <!-- Icons div to the left of the GIF -->
   <!-- Icons div to the left of the GIF -->
   <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; max-width: 100%; flex: 1; padding-left: 10px; padding-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
@@ -62,9 +61,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo" />
 </div>
 
+<!-- GIF and Social Links Div -->
+<div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+  <div style="display: flex; justify-content: flex-end; gap: 12px;">
+    <!-- GIF -->
+    <img align="right" height="190"             
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNtZzR4MjhvYW9raG55NGd4cGx3dTl0cDF4bzcwZmp5OXBvazZpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" />
+  </div>
+</div>
 
-
-######
 
 
 <div style="text-align: right; padding-top: 70px; font-family: 'Ubuntu', sans-serif; font-size: 20px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
@@ -110,7 +115,11 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maiz-an.maiz-an&left_color=red" />
 
+<br/><br/>
 
+<p align="left" style="display: inline-block;" >
+    <img height="110em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiz-an&theme=github_dark&timestamp=12345" alt="Your GitHub stats" style="display: inline-block;"/>
+    <img height="110em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maiz-an&theme=github_dark&timestamp=12345" style="display: inline-block;"/>
+</p>
 
-<br clear="both">
 <img src="https://raw.githubusercontent.com/maiz-an/maiz-an/output/snake.svg" alt="Snake animation" />
