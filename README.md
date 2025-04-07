@@ -67,7 +67,7 @@
 <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
   <div style="display: flex; justify-content: flex-end; gap: 12px;">
     <!-- GIF -->
-    <img align="right" height="190"             
+    <img align="right" height="170"             
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNtZzR4MjhvYW9raG55NGd4cGx3dTl0cDF4bzcwZmp5OXBvazZpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" />
   </div>
 </div>
