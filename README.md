@@ -9,10 +9,11 @@
 
 
 <br>
+<a href="https://github.com/maiz-an">
 <p align="left">
   <img align="left" width="370" alt="🦑" src="https://gist.githubusercontent.com/maiz-an/1af49adc577ff00e0b5bef9044965acf/raw/general.svg" />
 </p>
-
+</a>
 
  <!--
 <p align="center">
