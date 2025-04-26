@@ -118,7 +118,7 @@
 
 <br/>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maiz-an.maiz-an&left_color=red" />
+<img align="left" src="https://komarev.com/ghpvc/?username=sumalka&color=red" />
 
 <br/>
 
