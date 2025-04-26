@@ -118,7 +118,7 @@
 
 <br/>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=sumalka&color=red" />
+<img align="left" src="https://komarev.com/ghpvc/?username=maiz-an&color=red" />
 
 <br/>
 
