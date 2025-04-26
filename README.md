@@ -118,7 +118,12 @@
 
 <br/>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=maiz-an&color=red" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maiz-an&color=red" alt="Profile Views" />
+  <a href="https://github.com/sponsors/maiz-an" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-2F2F2F.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor me" height="21">
+  </a>
+</p>
 
 <br/>
 
