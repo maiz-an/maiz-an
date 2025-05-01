@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: snake animation1
 
 on:
   schedule: # execute every 12 hours
