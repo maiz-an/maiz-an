@@ -83,7 +83,7 @@
 
 <div style="display: inline-flex; gap: 20px;">
 
- <a href="https://maizan.infinityfreeapp.com/" target="_blank" style="display: inline-block;">
+ <a href="https://www.mzieos.com/" target="_blank" style="display: inline-block;">
      <img src="https://i.postimg.cc/XNszWDtJ/favmin.png" height="39" alt="portfolio logo" />
   </a>
 
