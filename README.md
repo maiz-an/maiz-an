@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://https://maizan.infinityfreeapp.com" target="_blank">
+    <a href="maizan.me" target="_blank">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hey+it's+Maizan!;+I'm+a+Developer+and+Designer.;" />
     </a>
 </h1>
@@ -83,7 +83,7 @@
 
 <div style="display: inline-flex; gap: 20px;">
 
- <a href="https://www.maizan.mzieos.com/" target="_blank" style="display: inline-block;">
+ <a href="https://maizan.me/" target="_blank" style="display: inline-block;">
      <img src="https://i.postimg.cc/XNszWDtJ/favmin.png" height="39" alt="portfolio logo" />
   </a>
 
