@@ -98,11 +98,11 @@
 </a>
 
   <!-- Gmail button with Gmail logo -->
-<a href="mailto:mohamedmaizanunas@gmail.com?subject=hey!&body=I came from your GitHub." target="_blank" style="display: inline-block;">
+<a href="mailto:memaizanx@gmail.com?subject=hey!&body=I came from your GitHub." target="_blank" style="display: inline-block;">
 <img src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" height="41" alt="gmail logo" />
 </a>
   <!-- Instagram button with Instagram logo (second instance) -->
- <a href="https://www.instagram.com/ziezanq" target="_blank" style="display: inline-block;">
+ <a href="https://www.instagram.com/i8miez" target="_blank" style="display: inline-block;">
   <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="41" alt="instagram logo" />
   </a>
 
