@@ -75,7 +75,7 @@
 
 
 
-<div style="text-align: right; padding-top: 70px; font-family: 'Ubuntu', sans-serif; font-size: 20px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+<div style="text-align: right; padding-top: 10px; font-family: 'Ubuntu', sans-serif; font-size: 20px; font-weight: bold; color: #333; display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
 
 <h5 style="color: #00BFFF;">
     Ping me on these!
